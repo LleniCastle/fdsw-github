@@ -24,6 +24,11 @@ body {
   font-size: 55px;
 }
 
+/*section "acerca de mi" actualizado*/
+#Acerca-de-mi i {
+  font-size: 50px;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
