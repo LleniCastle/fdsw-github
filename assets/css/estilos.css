@@ -1,7 +1,15 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+/* Nav actualizado*/
+.navbar-brand p {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar-brand p:hover{
+  color:aqua;
+}
 /* Hero Section */
 
 #Hero-Section {
@@ -32,8 +40,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
